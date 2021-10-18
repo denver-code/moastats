@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Config
+config.ini
+.env
+reportbot.service
+
+# Logs
+logs/
+
+# Virtual envirment
+venv/
+.venv/
+
+.vscode/
+.idea/
